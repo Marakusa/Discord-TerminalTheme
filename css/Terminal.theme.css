@@ -1,0 +1,22 @@
+/**
+ * @name Terminal
+ * @author Mara#2222
+ * @version 1.0.0
+ * @source https://github.com/Marakusa/Discord-TerminalTheme
+ * @description A terminal theme
+ * @authorId 376425306975895573
+*/
+
+@import url('https://raw.githubusercontent.com/Marakusa/Discord-TerminalTheme/main/css/main.css');
+
+/* TO CUSTOMIZE THE THEME, UNCOMMENT THE LINES BELOW AND REPLACE THE VARIABLES */
+
+/* REMOVE THIS LINE TO UNCOMMENT
+
+:root {
+  --background: #000700 !important;
+  --text-color: #4AEF98 !important;
+  --highlight: var(--text-color) !important;
+}
+
+   REMOVE THIS LINE TO UNCOMMENT ASWELL */
